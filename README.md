@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 ¡Hola! Soy Melissa Fisher<br>Soy desarrolladora full stack apasionado por crear soluciones con impacto real. Me encanta trabajar con tecnologías modernas, inteligencia artificial y arquitectura de software escalable.
+👋 ¡Hola! Soy Melissa Fisher<br>Soy desarrolladora full stack apasionada por crear soluciones con impacto real. Me encanta trabajar con tecnologías modernas, inteligencia artificial y arquitectura de software escalable.
 
 
 ## 🌐 Socials:
