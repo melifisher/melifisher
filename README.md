@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 ¡Hola! Soy Melissa Fisher<br>Soy desarrolladora full stack apasionada por crear soluciones con impacto real. Me encanta trabajar con tecnologías modernas, inteligencia artificial y arquitectura de software escalable.
+👋 ¡Hi! I'm Melissa Fisher<br>I am a full stack developer passionate about creating solutions with real impact. I love working with modern technologies, artificial intelligence, and scalable software architecture.
 
 
 ## 🌐 Socials:
@@ -11,11 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=melifisher&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=melifisher&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=melifisher&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=melifisher&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=melifisher&icon=7&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
